@@ -16,6 +16,7 @@ gem 'bootstrap-sass', '~> 3.3.6'
 gem 'sass-rails', '>= 3.2'
 gem 'paperclip', '~> 4.3', '>= 4.3.2'
 gem 'simple_form', '~> 3.2', '>= 3.2.1'
+gem 'searchkick', '~> 1.1', '>= 1.1.2'
 gem 'sdoc', '~> 0.4.0',          group: :doc
 
 gem 'spring',        group: :development
